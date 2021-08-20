@@ -1,0 +1,11 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r This project is juts a demo how to use git\r Add new line\r =======\r >>>>>>> parent of c93a544 (Update the file README.md)",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
